@@ -1,0 +1,5 @@
+{
+  "name": "AI Tech Stack Advisor",
+  "description": "An intelligent advisor powered by Gemini that provides expert analysis and recommendations for your tech stack and AI-driven business use cases. Describe your project, and get a detailed plan to bring your vision to life.",
+  "requestFramePermissions": []
+}
